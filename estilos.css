@@ -1,0 +1,10 @@
+.header{
+  height: 100px;
+  width: 100%;
+  background-color: grey;
+}
+#enviar{
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 20px;
+}
